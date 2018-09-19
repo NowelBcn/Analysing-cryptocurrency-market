@@ -1,3 +1,3 @@
 # Analysing-cryptocurrency-market
 
-![](./imges/bitcoint)
+![](./bitcoint)
