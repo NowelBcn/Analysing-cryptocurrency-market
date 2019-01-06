@@ -1,3 +1,3 @@
-# Analysing-cryptocurrency-market
+# Analysing cryptocurrency market capitalization
 
 ![](./bitcoint.png)
